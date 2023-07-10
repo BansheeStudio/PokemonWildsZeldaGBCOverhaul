@@ -1,6 +1,6 @@
 Something is brewing up here ladies!
 
-TBA ****/**/**
+TBA YYYY/MM/DD
 
 Main Dev - PlushBanshee =
 Project Manager
