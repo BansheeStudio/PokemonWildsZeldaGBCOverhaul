@@ -1,10 +1,10 @@
 Something is brewing up here ladies!
 
-Main Dev - PlushBanshee
+Main Dev - PlushBanshee =
 Project Manager
 
-Main Dev - AG1k
+Main Dev - AG1k =
 Cave Textures
 
-Main Dev - Fantactic
+Main Dev - Fantactic =
 ???
