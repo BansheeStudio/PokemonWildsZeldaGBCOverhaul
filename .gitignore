@@ -1,0 +1,10 @@
+# gitignore to prevent the game files themselves from being pushed
+
+app/
+runtime/
+*.exe
+*.ico
+*.sav
+*.zip
+README.txt
+settings.txt
