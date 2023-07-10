@@ -1,0 +1,277 @@
+THE LEGEND OF ZELDA: ORACLE OF AGES / SEASONS
+Sound Guide by HelpTheWretched
+------------------------------
+
+Oracle of Ages & Oracle of Seasons have far more recycled sound effects - sounds that are used for more than one purpose - than any other Legend of Zelda game. In the descriptions on www.ZeldaSounds.com, many of the common alternate uses of some sounds are listed. To save space in these descriptions, some of the less notable uses have been removed and written in this more complete listing.
+
+These recycled sound files are named by what I've considered to be the primary use for them. If a sound appears only (or primarily) in one of the two games, its prefix is "OOA" or "OOS" - all other sounds have the prefix "Oracle".
+
+Several of these sounds are very similar to some from Link's Awakening, but after close inspection I've found that they have slight differences in either tone, volume, or pitch. The technical notes from Link's Awakening also apply to the Oracle games!
+
+
+
+
+LINK
+
+
+Oracle_Link_Jump		Link (and other characters) jumping
+Oracle_Link_LandRun		Link landing a jump and running (loopable)
+				(also Gohma [OOS Boss 4] stepping)
+Oracle_Link_PickUp		Link picking up an object
+Oracle_Link_Throw		Link throwing an object
+				(also using Roc's Cape, Ramrock [OOA Boss 8] getting wrecking balls, Octoroks shooting and running away in Ages opening, and Façade [OOS Mini-Boss 2] spitting fireballs)
+Oracle_Link_Shock		Link getting an electric shock
+				(also Subterror's [OOA Mini-Boss 3] drill)
+Oracle_Link_Fall		Link falling in a hole
+Oracle_Link_Hurt		Link getting hurt
+Oracle_Link_Dying		Link dying
+Oracle_Link_Wade		Link wading in shallow water
+				(also Link falling in water, swimming with the Mermaid suit [OOA], stepping on a floor-switch, Vire shooting fireballs, fish jumping and splashing)
+Oracle_Link_Swim		Link swimming in water
+				(also Octogon [OOA Boss 6] swimming while submerged)
+Oracle_Link_GoronDance1		Link doing the Goron Dance ("B" pose)
+				(also holding a pose in the Subrosian Dance. Stepping right uses the Pirate Skull bouncing sound; stepping left uses the Seed Shooter sound.)
+Oracle_Link_GoronDance2		Link doing the Goron Dance ("A" pose)
+				(also used as the begin-fight bell in OOA, and repeated 3 times at 1/3 seconds apart as the end-fight bell.)
+OOA_Link_Baby			Link transformed into a baby (during fight with Stalfos Reaper [OOA Mini-Boss 8])
+OOA_Link_BabyCrawl		Link crawling as a baby (loopable)
+
+
+
+
+WEAPONS AND ITEMS
+
+
+Oracle_Get_Rupee		Get a rupee
+Oracle_Get_Rupee5		Get 5 rupees (same sound, except repeated 5 times very quickly)
+Oracle_Get_Heart		Get a heart
+Oracle_Get_Item			Get other items (seeds, keys, etc.)
+				(also a floor tile changing colour)
+Oracle_Fanfare_Item		"Get Item" fanfare
+Oracle_Fanfare_Essence		"Get Essence" fanfare
+Oracle_HeartContainer		Get or complete a new Heart Container
+				(also playing the Mystery Flute - the animal flute before finding an animal companion)
+Oracle_Sword_Slash1		Sword slashing (3 sounds, used randomly)
+				(#1 also swinging the Rod of Seasons and the Cane of Somaria, Gohma and Onox [Dragon form] winding up a claw attack, Armos Warrior's sword flying [repeats every 8/30 seconds], Ricky's first punch, and Ralph drawing a sword. #2 also Gohma grabbing, Blade Traps moving, Ricky's second punch, and Link & Ralph dashing around Veran in the beginning of OOA. #3 also Bats flapping [summoned by Twinrova in combined form], and Ralph chasing Nayru in the beginning of OOA.)
+Oracle_Sword_Slash2
+Oracle_Sword_Slash3
+Oracle_Sword_Charge		Charge up a Sword
+				(also Ricky charging a punch, and the Spirit of Seasons fairy flying around Link)
+Oracle_Sword_Spin		Sword-spin attack
+				(also Veran [Demon form] dashing, Nayru & Ambi jumping while possessed, Octogon swim-dashing and blowing bubbles, Stalfos Reaper's scythe slash, and Aquamentus [OOS Boss 1] dashing)
+Oracle_Sword_Shoot		Shoot magic from a Sword
+				(also Ramrock's laser eyes [repeats 21 times, every 4/30 seconds])
+Oracle_Sword_Tap		Sword tapping against a wall
+				(also characters emoting, the Switch Hook hitting solid objects, Thwimp landing, Blade Traps colliding, making corrections on a menu, hitting the ball in OOA's target game, and characters in OOA getting frozen in time)
+Oracle_BiggoronsSword		Swing the Biggoron's Sword
+				(also Ramrock's fist attack and retrieving the wrecking ball, Ganon's slash attack, and a new overworld bridge appearing)
+Oracle_Shield			Hold a Shield
+Oracle_Shield_Deflect		Shield deflecting an attack
+				(also a Sword tapping bombable walls, and Head Thwomp [OOA Boss 2] turning its face)
+Oracle_Bomb_Drop		A Bomb bouncing
+				(also an Ember Seed dropping, Ramrock's fists returning to place, and various "bounce" sounds: thrown items, enemies dug from the ground, enemies bouncing off a Shield, and a flower launching Link in OOS)
+Oracle_Bomb_Blow		A Bomb exploding
+				(also Ramrock's wrecking ball attack, Onox's ball and chain attack, Onox's hand slamming [Dragon form], and various "bang" sounds: Failing the Restoration Game [mine cart crashing], Tingle's balloon popping, Frypolar's [OOS Mini-Boss 8] fireballs, Ganon's large charge-up shot hitting, and Ganon landing a jump)
+Oracle_Boomerang		Boomerang flying (loopable)
+Oracle_Shovel			Digging with the Shovel
+				(also Subterror digging underground)
+Oracle_EmberSeed		Use an Ember Seed
+				(also any flames or torches ignited, Dodongo [OOS Boss 2] and Gleeok [OOS Boss 7] spitting fireballs, and Veran's face [Final form] appearing)
+Oracle_ScentSeed		Use a Scent Seed
+				(also Moosh's ground pound, Digdogger [OOS Boss 5] landing, Octogon shooting a fireball, and Ramrock generating new fists)
+Oracle_ScentSeed_Shot		A Scent Seed shot with the Slingshot or Seed Shooter
+				(also the Pirates' Bell)
+Oracle_GaleSeed			Use a Gale Seed
+				(also scoring a hit in Target Carts)
+Oracle_MysterySeed		Use a Mystery Seed
+				(also a block appearing from the Cane of Somaria, the Fairies' Woods being restored to normal [played 3 times, 11/30 seconds apart], and Ralph time-warping)
+OOA_SeedShooter			Seed Shooter
+				(also stepping left in the Subrosian Dance)
+OOA_SwitchHook_Full		Switch Hook extending (full sound and loopable portion)
+OOA_SwitchHook_Loop
+OOA_SwitchHook_Switch		Switch Hook switching Link's place
+OOS_MagneticGloves1		Magnetic Gloves (two short sounds: #1 is loopable, #2 is heard when the gloves are turned off)
+OOS_MagneticGloves2
+OOS_MagneticGloves_HalfSecond	Magnetic Gloves (sample sounds, about half a second and one second long)
+OOS_MagneticGloves_OneSecond
+OOA_Harp_TuneOfEchoes		Play the Tune of Echoes
+OOA_Harp_TuneOfCurrents		Play the Tune of Currents
+OOA_Harp_TuneOfAges		Play the Tune of Ages
+Oracle_Flute_Ricky		Play Ricky's Flute
+Oracle_Flute_Dimitri		Play Dimitri's Flute
+Oracle_Flute_Moosh		Play Moosh's Flute
+
+
+
+
+ENEMIES, BOSSES, AND CHARACTERS
+
+
+Oracle_Enemy_Hit		An enemy hit
+Oracle_Enemy_Die		An enemy killed
+				(also Gohma's claw breaking, Medelock's [OOS Boss 8] formation completed, Veran's Demon form tackling Nayru, and a large statue shattering [played along with the Bomb Dropping sound])
+Oracle_Enemy_Jump		An enemy jumping
+				(also Octogon surfacing)
+Oracle_Enemy_Spit		An enemy (Deku Scrub or Octogon) spitting a rock
+				(also a Tokay dashing away)
+Oracle_Laser			Beamos (rotating eye) firing a laser
+				(also Onox spinning a ball & chain [repeats every 8/30 seconds; 4/30 seconds during the last 3 spins], Onox [Dragon form] spitting red fireballs, Veran [Bee form] shooting stingers, Ganon's energy shot, Stalfos Reaper's shot expanding, and Veran's Demon form dashing toward Ambi)
+OOS_Ghini_Appear		A Ghini (ghost) appearing in the Explorer's Crypt [OOS Dungeon 7]
+Oracle_Boss_Hit			A boss hit
+				(also Veran's demon form possessing Ambi)
+Oracle_Boss_Die			A boss killed
+				(also a Wallmaster grabbing Link, Ganon's roar, Veran's Demon form first appearing, and the Pirate Ship embarking in OOS)
+Oracle_Boss_Explode		A boss exploding after death
+				(also heard in OOA when all 4 crystals in the Moonlit Grotto are broken, and when Tokkey finishes composing the Tune of Echoes)
+OOA_Boss_Shoot			Various "Shoot" sounds from bosses: Pumpkin Head [OOA Boss 1], Plasmarine [OOA Boss 7], Veran, and Twinrova [combined] summoning fire-bats
+Oracle_Boss_BigBoom		Various "Boom" sounds from bosses: Head Thwomp falling, Gleeok's ground-pound, Ramrock clasping hands together, Veran [Turtle form] landing and eating Link, Onox jumping, Bomb Cannon firing, Façade shooting fireballs, and Armos Warrior [OOA Mini-boss 4] smashing floors and walls
+OOS_Aquamentus_Walk		Aquamentus walking (repeats every 0.4 seconds normally, 0.3 seconds when walking fast)
+OOS_Dodongo_Roar		Dodongo roaring
+				(also Aquamentus shooting)
+OOS_Gohma_DropLarva		Gohma dropping larva
+				(also Link stepping on a floor tile in the Sword & Shield Maze [OOS Dungeon 8] while following the Armos ghost)
+OOS_Syger_Roar			Syger [OOS Mini-Boss 5] roaring
+OOS_Frypolar_Move		Frypolar moving (repeats every 8/30 seconds)
+Oracle_MiniBoss_Charge		Agahnim [OOS Mini-Boss 4] and Stalfos Reaper charging up a shot
+OOA_Plasmarine_Shock		Plasmarine electrifying (longer version of the Link Shock sound)
+OOS_Medelock_Lasers		Medelock firing lasers (similar to a repeated version of the Boss Shoot sound, but not identical)
+OOA_Veran_Shapeshift		Veran shapeshifting between forms
+				(also Digdogger miniatures reforming into Digdogger)
+OOA_VeranTurtle_Jump		Veran [Turtle form] jumping
+				(also Digdogger miniatures dying, and Link using the Megaphone on Talon)
+OOA_VeranTurtle_Land		Veran [Turtle form] landing
+				(also Octogon's fireball expanding)
+OOA_VeranBee_Swarm		Veran's [Bee form] swarm attack
+				(also Ramrock hovering, Twinrova's fire shot, Stalfos Reaper shooting, and Medelock spitting fireballs)
+OOS_Onox_Tornado		Onox's tornado attacks (loopable)
+OOS_OnoxDragon_Fly		Onox [Dragon form] flying (loopable)
+				(also used by Aquamentus, and by Mothula [OOS Boss 3] for first 3 flaps)
+OOS_OnoxDragon_Fly_Longer	Longer version of Onox [Dragon form] flying (loopable, used by Mothula after 3rd flap)
+				(also crystals forming around a captured Din before getting trapped)
+OOS_OnoxDragon_Swipe		Onox [Dragon form] swiping with a hand, or shooting blue fire (very similar to the Dodongo Roar sound, but slightly different)
+Oracle_Twinrova_Laugh		Twinrova lauging
+Oracle_Twinrova_AppearFly	Twinrova appearing and flying (outside of battle; the Gasha Tree Withering sound is used for flying during battle)
+				(also Twinrova's ice shot, Veran [Spider form] web-slinging, Twinrova [combined] fireball expanding [used along with the Appear/Vanish sound], Syger dashing, and Vire flying out of a chest)
+Oracle_Twinrova_Combine		Twinrova combining (immediately followed by the Veran Shapeshifting sound)
+				(also wind blowing at the South Shore in OOA)
+Oracle_TwinrovaCombined_Move	Twinrova [combined] moving around
+				(also Nayru & Ambi [possessed] moving, and Veran [Demon form] circling Ambi before possessing her)
+Oracle_Ganon_StaffShoot		Ganon shooting a blast from his staff (repeats every 4/30 seconds)
+				(also used by Ambi [possessed], Veran, and Agahnim)
+OOA_Nayru_Land			Nayru [possessed] landing from a jump in the beginning of OOA
+OOA_MakuTree_Weird		The Maku Tree [OOA] feeling "weird"
+OOS_MakuTree_Snore1		The Maku Tree [OOS] snoring
+OOS_MakuTree_Snore2
+Oracle_Cucco			A Cucco clucking
+Oracle_DekuScrub		A Deku Scrub "talking"
+Oracle_Goron			A Goron's voice
+				(also Veran [Turtle form] looking around)
+OOA_Tokay			A Tokay's voice
+OOA_Tingle_KoolooLimpah		Tingle's magic words
+Oracle_Ricky			Ricky's voice
+Oracle_Dimitri			Dimitri's voice
+Oracle_Moosh			Moosh's voice
+
+
+
+
+MENUS, ETC.
+
+
+Oracle_Text_Letter		Dialogue text - display a letter
+Oracle_Text_Done		Dialogue text - finish a page
+Oracle_Menu_Cursor		Moving the cursor on any menu
+Oracle_Menu_Select		Making a selection on a menu
+Oracle_PauseMenu_Open		Open and close the Pause menu
+Oracle_PauseMenu_Close
+
+
+
+
+OTHER SOUNDS
+
+
+Oracle_Secret			Finding a secret (1-channel and longer 2-channel versions)
+Oracle_Secret_Long
+Oracle_Error			Error Sound
+Oracle_LowHealth		Low health beep (loopable)
+Oracle_HealthRefill		Health refilling (loopable)
+Oracle_Bush_Cut			A bush cut (or long grass or leaves)
+				(also Syger rolling)
+Oracle_Rock_Shatter		A rock or pot shattering
+				(also Armos Warrior's shield breaking, Head Thwomp's fireballs landing, and Gorons punching rocks)
+Oracle_Block_Push		A block being pushed
+				(also a dungeon lever being pulled, and spinning spike traps moving)
+Oracle_Block_Fall		A block pushed down a hole
+				(also an enemy knocked into a hole, Wallmaster descending, Head Thwomp's fireballs faling, and Angler Fish [OOA Mini-Boss 7] blowing a bubble)
+Oracle_AppearVanish		Various objects appearing or vanish
+				(also Ganon's large charge-up shot firing, Ganon's staff-shot expanding, Dodongo walking [repeats every 16/30 seconds; 8/30 when walking fast], Digdogger Jumping, the Maku Tree [OOS] awakening, and Angler Fish bouncing)
+Oracle_Chest			A chest opened
+				(also a door unlocked, a dungeon lever pulled completely, a Tokay catching meat, and the Bomb Flower set)
+Oracle_Key_Bounce		Keys (and other items, including the Seed Satchel) bouncing
+				(also a big magnetic ball bouncing, the Triforce gleaming in both games' introductions, and Essences gleaming when touched)
+Oracle_Stairs			Walking up or down stairs (entering a building)
+Oracle_Barrier			Sounds of various barriers appearing or disappearing (usually repeats 4 times)
+				(also dungeon walls shifting, Thwomp landing, Pumpkin Head jumping, Aquamentus landing and wall-smashing, General Onox & Moblin King walking, a dungeon lever beginning to retract, a bridge segment built, and Swoop's [OOA Mini-Boss 2] ground-pound)
+Oracle_Dungeon_Door		A dungeon door opening (similar to "Barrier" sound but with more "echo")
+Oracle_Dungeon_Spinner		A dungeon path-spinner
+Oracle_Dungeon_Signal		The dungeon compass secret-signal
+Oracle_Dungeon_Teleport		Teleporting in a dungeon
+				(also a time-warp location appearing in OOA, Veran transforming, Twinrova [combined] charging an ice shot, Ganon teleporting, Medelock forming, and the illusion of Din vanishing before the battle with Onox)
+Oracle_Switch			A switch activated (crystal, floor tile, etc.)
+				(also a coloured cube rolling, and a target destroyed in Target Practice game)
+Oracle_MineCart			A mine cart in motion (loopable)
+Oracle_MineCart_Track		A mine cart's track being unblocked
+OOS_BlueRoller			A spiked blue roller being pushed (a version of the Aquamentus Walk sound that repeats with strange timing)
+OOA_WingDungeon_Collapse1	The Wing Dungeon [OOA Dungeon 2] collapsing from the outside (2 consecutive sounds, #1 loops 3 times before #2 plays)
+OOA_WingDungeon_Collapse2
+OOA_WingDungeon_Collapse_Full	Full sound of the Wing Dungeon collapsing
+Oracle_FloorCrumble		A floor tile crumbling beneath Link
+				(also lava burning [played repeatedly] and boulders falling)
+Oracle_Rumble1			Rumbling / earthquake noises (consecutive sounds, #1 loopable, #2a or #2b plays after the final loop)
+Oracle_Rumble2a
+Oracle_Rumble2b
+Oracle_AltarShake		Twinrova's sacrificial altar shaking
+				(also a crypt opening in the Ancient Tomb [OOA Dungeon 8])
+Oracle_Woosh1			"Woosh" sounds heard in various places (#1 and #2 are always played consecutively, #2 is loopable)
+Oracle_Woosh2			#2 loops 3 times when encountering the Power of Darkness at the Northern Peak [OOS]. All 3 sounds are played consecutively, with #2 looping 6 times, when Twinrova transports Link into battle. #1 plays for 2.4 seconds when Twinrova [combined] changes from Fire to Ice form, and for 2.18 seconds when the Maku Seed appears to unlock both games' final towers. #3 is sometimes heard on its own: Title screens appearing, warping to/from Subrosia, the Maku Tree [OOA] vanishing, Ganon changing the battle room, the Zora Seas being cleaned, and the final towers being unlocked.
+Oracle_Woosh3			#3 repeats 3 times, each 19/60 (0.31667) apart, when a Bomb Flower explodes and when the Rod of Seasons is formed. This is also heard along with the Essence Glowing sound when the Rod of Seasons is upgraded and when receiving a transferred power from Farore. #3 repeats like the Bomb Flower, but with one more repeat after 19/30 (0.6333) seconds, when an Essence (of Time or Nature) transports Link out of a dungeon. #3 repeats 4 times, each 8/30 seconds apart, after the Essence Spinning sounds and along with the Appear/Vanish sound, when receiving a chest from Farore.
+Oracle_WaterFlow1		Water flowing (2 consecutive sounds, #2 is loopable)
+Oracle_WaterFlow2		#2 loops 1 or 2 times for changing water's flow direction, 0 times for draining in a house, and 7 times for draining floodgates (loop length is approximate)
+Oracle_SeaWave			Waves at sea
+Oracle_Lightning		Lightning
+				(also Medelock's circular turn-to-stone blast)
+Oracle_Lightning_Long		Longer lightning (heard during a Password Game's intro with Twinrova, when Din is trapped in a crystal in the beginning of OOS, and during the Bomb upgrade in Subrosia)
+Oracle_GashaTree_Wither		A Gasha Tree withering away
+				(also Twinrova flying during battle, a Great Fairy disappearing, the Zora Seas cleaned by Queen Fairy, and the Triforce transporting Link in both games' introductions)
+Oracle_MakuTree_Leaves		Leaves falling from the Maku Tree (heard after completing dungeons)
+				(also Forest Fairies flying, Link turning back into adult form, Frypolar switching between fire and ice forms, Fairy Powder sprinkled, and the Maku Seed descending when obtained)
+OOA_MakuTree_Wisps		Wisps falling from the Maku Tree (loopable, only heard in OOA after dungeons set in the past)
+Oracle_MakuSeed_Glow		The Maku Seed glowing in the final dungeon of each game
+				(also the Queen Fairy transforming in OOA, and Din breaking free of her bonds in OOS)
+Oracle_Essence_Glow		An Essence (of Time or Nature) glowing when obtained
+				(also the Rod of Seasons changing the season, Veran dying [played along with Bomb explosion sounds], the Triforce enveloping Link in both games' introductions, Zelda transporting, Nayru time-warping in the beginning of OOA, Din about to be trapped in a crystal)
+Oracle_Essence_Spin1		Essences spinning around the Maku Seed (2 consecutive sounds, #1 loops 41 times before #2 plays; "Woosh" sound heard after 37 loops)
+Oracle_Essence_Spin2		(#1 also loops 18 times when receiving a chest from Farore)
+OOA_TimeWarp_Begin		A time-warp in OOA
+OOA_TimeWarp_Finish
+Oracle_FunnyJoke1		Poses from performing the Funny Joke
+				(also Tokkey composing the Tune of Currents in OOA, and the Subrosians' ore-forging dance in OOS)
+Oracle_FunnyJoke2
+Oracle_FunnyJoke3
+Oracle_Game_Whistle		A whistle blowing at the Target Practice game, dancing games, and other bonus games
+				(also Link being spotted by soldiers)
+Oracle_Game_Prepare		The next set of targets being prepared at Target Practice
+OOS_PirateSkull_Bounce		A pirate skull bouncing (heard in the Samasa Desert in OOS)
+				(also stepping right in the Subrosian Dance)
+Oracle_SwordShimmer		A sword shimmering sound (heard on both games' title screens and when Link holds up a new sword)
+				(also Veran posing, Frypolar's ice spike, and Ramrock coming to life)
+Oracle_BeginQuest		Link waking up on Labrynna or Holodrum
+				(also Nayru [possessed by Veran] time-warping)
+Oracle_ReturnToNormal		Things returning to normal in both games' endings (statues coming to life in OOA, seasons restoring in OOS)
+
+
+
+
+-HTW
+-EOF
