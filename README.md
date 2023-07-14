@@ -1,12 +1,12 @@
-Something is brewing up here ladies!
+Something is brewing up here ladies! 👀
 
-TBA YYYY/MM/DD
+TBA 2023/MM/DD
 
 Main Dev - PlushBanshee =
 Project Manager
 
 Main Dev - AG1k =
-Cave Textures
+Textures and Sound
 
 Main Dev - Fantactic =
 ???
